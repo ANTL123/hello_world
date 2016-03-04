@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << string(__FILE__) << endl;
+    cout << string("Hello, World!") << endl;
     return 0;
 }
